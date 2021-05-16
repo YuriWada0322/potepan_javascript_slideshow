@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+.slider{
+    width:75%;
+    height:75%;
+    margin:0 auto;
+}
+
+img{
+    width:80%;
+    margin:0 auto;
+}
+
+h2,p{
+    margin-left:350px;
+    color:white;
+}
